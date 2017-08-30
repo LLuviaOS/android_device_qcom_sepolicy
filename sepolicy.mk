@@ -19,3 +19,4 @@ BOARD_PLAT_PRIVATE_SEPOLICY_DIR += \
 BOARD_SEPOLICY_VERS := $(PLATFORM_SDK_VERSION).0
 
 -include device/lluvia/sepolicy/qcom/sepolicy.mk
+
